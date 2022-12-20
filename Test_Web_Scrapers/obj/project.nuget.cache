@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xkfi3pqOriXA62PSI7SBTX8Kb+nRREyxsFStbHUYRmqFp+U241AvN+eVBJdhhgIi8pVh8fJeWT6nYoJX1WjFvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\source\\repos\\Test_Web_Scrapers\\Test_Web_Scrapers\\Test_Web_Scrapers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
